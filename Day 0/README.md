@@ -53,3 +53,9 @@ git switch main\
 git merge {branch_name}
 
 
+Check Status: git status\
+Stage changes: git add .\
+git commit: git commit -m "text to add surrounded by quotes"\
+sync remote from local repo: git push origin {branch_name}
+
+
